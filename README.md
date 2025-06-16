@@ -95,10 +95,3 @@ Built a compelling platform focused on innovation and audience experience.
 
 > "In a world full of zeroes and ones, I choose to be the firewall." 🔥
 """
-
-# Save the new README.md file
-final_readme_path = "/mnt/data/README_Final_Ganesh.md"
-with open(final_readme_path, "w") as f:
-    f.write(readme_full)
-
-final_readme_path
