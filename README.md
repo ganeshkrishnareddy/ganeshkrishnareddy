@@ -10,7 +10,7 @@
 My personal mission: **Secure, Build, and Scale Everything.**  
 Here's a breakdown of my cybersecurity roadmap covering everything from foundational networking to advanced red teaming.
 
-📄 [🚧 View My Cybersecurity Roadmap](./GaneshKrishnaReddy_Roadmap_2020_2025.md)
+📄 [🚧 View My Cybersecurity Roadmap](https://github.com/ganeshkrishnareddy/Portfolio/blob/main/GaneshKrishnaReddy_Roadmap_2020_2025.md)
 
 ---
 
