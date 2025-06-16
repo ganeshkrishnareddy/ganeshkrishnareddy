@@ -72,7 +72,7 @@ Built a compelling platform focused on innovation and audience experience.
 ## 🌐 Profiles & Platforms
 <p align="left">
   <a href="https://www.hackerrank.com/pganeshkrishnareddy"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://tryhackme.com/pganeshkrishnareddy"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red" /></a>
+  <a href="https://tryhackme.com/p/pganeshkrishnareddy"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red" /></a>
   <a href="https://linkedin.com/in/pganeshkrishnareddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ganeshkrishnareddy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
