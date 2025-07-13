@@ -1,97 +1,140 @@
-# 👋 Hey there, I'm Ganesh Krishna Reddy!
+👋 Hey there, I’m P. Ganesh Krishna Reddy
 
-🚀 **Cybersecurity Specialist | Web Developer | Network Security Enthusiast**  
-🔍 Passionate about fortifying systems, building meaningful websites, and exploring the edges of technology.  
-📍 Based in India | ☁️ Red Hat Intern | Founder at ProgVision
+Full‑Stack Developer | Cybersecurity Specialist | Talent Acquisition Enthusiast
 
----
+🔐 My mission: Secure, Build & Scale Everything
 
-## 🛡️ Journey to Secure Everything
-My personal mission: **Secure, Build, and Scale Everything.**  
-Here's a breakdown of my cybersecurity roadmap covering everything from foundational networking to advanced red teaming.
+📋 About Me
 
-📄 [🚧 View My Cybersecurity Roadmap](https://github.com/ganeshkrishnareddy/Portfolio/blob/main/GaneshKrishnaReddy_Roadmap_2020_2025.md)
+🔭 I build scalable web apps (React, Node.js) and fortify them with robust security practices.
 
----
+🌱 I mentor and interview junior developers; I’ve onboarded and reduced ramp‑up time by 25% in previous internship drives.
 
-## 💻 Web Development Projects @ ProgVision
+🤝 I craft job specs, source candidates with LinkedIn Recruiter, and manage end‑to‑end hiring campaigns.
 
-### 🍴 Alekhyaa Chitti Pickles  
-Crafted a vibrant and engaging website showcasing authentic flavors and connecting with global pickle lovers.
+🇮🇳 Based in India | 🌐 Founder @ ProgVision | 🖥️ Red Hat Intern (Linux SysAdmin)
 
-### 🌐 Jodanl Services Limited  
-Developed a dynamic, intuitive platform reflecting professionalism and innovation, built to scale and engage.
+⚡ Fun fact: “In a world full of zeroes and ones, I choose to be the firewall.”
 
-### 👩‍💼 Tracy Jackson  
-Created a clean, impactful site to highlight expertise and increase audience engagement.
+📈 Journey to Secure Everything
 
-### 💡 SJ Innovation  
-Delivered a sleek digital presence that mirrors SJ Innovation's brand and mission.
+| 🔗 View My Cybersecurity Roadmap |
 
-### 🧠 Innovation Quarter  
-Built a compelling platform focused on innovation and audience experience.
+I’m on a continuous path from foundational networking to advanced red‑teaming, blending full‑stack dev and security expertise.
 
----
+💼 Web Development Projects @ ProgVision
 
-## 🛠️ Tech Stack & Tools
+Project
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" />
-</p>
+Description
 
----
+Alekhyaa Chitti Pickles
 
-## 🧠 Certifications
-- ✅ CompTIA Security+ CE
-- ✅ CompTIA Network+ CE
-- ✅ Red Hat Linux Administration (Internship)
-- ✅ Digital Forensics (Certified)
-- ✅ CS50's Understanding Technology – HarvardX
+Engaging e‑commerce site connecting global pickle lovers.
 
----
+Jodani Services Ltd.
 
-## 🧪 Cybersecurity Projects
-- 🔐 **Secure File Transfer Script** – Encrypted SCP automation tool
-- 🛡️ **Server Hardening Playbook** – CIS-compliant Linux security configs
-- 🕵️ **Vulnerability Assessment Reports** – Nmap, Nessus-based scanning
-- 🕸️ **Web App Security Audit** – Real-world pentesting report using OWASP Top 10
+Dynamic platform showcasing professional services at scale.
 
----
+Tracy Jackson
 
-## 🌐 Profiles & Platforms
-<p align="left">
-  <a href="https://www.hackerrank.com/pganeshkrishnareddy"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/pganeshkrishnareddy"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red" /></a>
-  <a href="https://linkedin.com/in/pganeshkrishnareddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ganeshkrishnareddy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-</p>
+Impactful portfolio site to boost audience engagement.
 
----
+SJ Innovation
 
-## 🎯 2025 Goals
-- 🚧 Continue Cybersecurity Roadmap
-- 🎯 Secure Internship (Summer 2025)
-- 🧠 Begin OSCP Prep
-- ✍️ Start Tech Blogging
+Sleek digital presence aligning with brand mission.
 
----
+Innovation Quarter
 
-## 📬 Let’s Connect
-- ✉️ **Email**: pganeshkrishnareddy@gmail.com  
-- 📱 **Mobile**: +91-8374622779
+Interactive portal focused on innovation and UX.
 
----
+🔧 Tech Stack & Tools
 
-> "In a world full of zeroes and ones, I choose to be the firewall." 🔥
-"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🛡️ Certifications & Achievements
+
+✅ CompTIA Security+ CE
+
+✅ CompTIA Network+ CE
+
+✅ Red Hat Linux Administration (Internship)
+
+✅ Digital Forensics (Certified)
+
+✅ HarvardX CS50’s Understanding Technology
+
+🎯 LinkedIn Certified Professional–Recruiter (In Progress)
+
+🔍 Cybersecurity Projects
+
+Secure File Transfer Script – Automated encrypted SCP transfers.
+
+Server Hardening Playbook – CIS‑compliant Linux security configs.
+
+Vulnerability Assessment – Nmap & Nessus scanning reports.
+
+Web App Security Audit – OWASP Top 10 pentesting report.
+
+🔗 Profiles & Platforms
+
+
+
+
+
+
+🎯 Goals 2025
+
+Continue my Cybersecurity Roadmap
+
+Secure a Summer 2025 cybersecurity internship
+
+Begin OSCP preparation
+
+Launch my tech blog on medium
+
+🚀 Recruitment Case Study
+
+Campus to Company: Internship Hiring Drive
+
+Context: LPU + ProgVision, June 2024
+
+Goal: Hire 10 interns (Full‑Stack & Cybersecurity) in 4 weeks
+
+Process:
+
+Created JD and sourced 50 candidates via LinkedIn Recruiter
+
+Designed a 2‑stage assessment (HackerRank + live panel)
+
+Conducted structured interviews; extended 12 offers, 10 accepted
+
+Results:
+
+Time‑to‑hire ↓ 30%
+
+Candidate NPS: 4.6/5
+
+First PR delivered within 5 days by interns
+
+🤝 Let’s Connect
+
+📧 pganeshkrishnareddy@gmail.com
+
+📱 +91‑8374622779
+
+🌐 Portfolio
+
+“In a world full of zeroes and ones, I choose to be the firewall.”
