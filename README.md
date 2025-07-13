@@ -18,7 +18,7 @@
 
 ## 📈 Journey to Secure Everything
 
-\| 🔗 [View My Cybersecurity Roadmap](#roadmap) |
+\| 🔗 [View My Cybersecurity Roadmap](https://github.com/ganeshkrishnareddy/Portfolio/blob/main/Journey_to_Secure_Everything_Roadmap.md) |
 
 Continuous learning path from foundational networking to advanced red‑teaming, blending full‑stack dev and security expertise.
 
