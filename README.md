@@ -26,7 +26,7 @@ Continuous learning path from foundational networking to advanced red-teaming, b
 
 ## 🚀 Flagship Project Showcase
 
-### Secure-File-Transfer-System
+### 🔐 Secure-File-Transfer-System
 
 ![codecov](https://img.shields.io/codecov/c/github/ganeshkrishnareddy/Secure-File-Transfer-System)
 ![CI](https://github.com/ganeshkrishnareddy/Secure-File-Transfer-System/actions/workflows/ci.yml/badge.svg)
@@ -34,9 +34,9 @@ Continuous learning path from foundational networking to advanced red-teaming, b
 **Built with:** Node.js, Bash, Docker, GitHub Actions  
 **Highlights:**
 
-* 🔒 Automated encrypted SCP transfers with a CLI tool
-* ⚙️ 90%+ test coverage reported to Codecov
-* 📦 Docker image < 50 MB, zero-downtime updates
+* 🔒 Automated encrypted SCP transfers with a CLI tool  
+* ⚙️ 90%+ test coverage reported to Codecov  
+* 📦 Docker image < 50 MB, zero-downtime updates  
 
 <details>
 <summary>Architecture Diagram</summary>
@@ -47,6 +47,21 @@ Continuous learning path from foundational networking to advanced red-teaming, b
 
 **Live Demo & Walkthrough:**  
 [![Loom Recording](https://img.shields.io/badge/Watch-Loom-Walkthrough-purple)](https://www.loom.com/share/your-looms-link)
+
+---
+
+### 🔑 Caesar Cipher – Classical Cryptography Tool *(Nov 2024 – Jan 2025)*
+
+**GitHub Repo:** [Caesar_Cipher](https://github.com/ganeshkrishnareddy/Caesar_Cipher)  
+**Technologies Used:** Python, HTML, CSS, JavaScript  
+
+**Highlights:**
+
+* ✍️ Programmed a substitution cipher utility to encode & decode text while maintaining language compatibility  
+* 🛠 Integrated robust error-handling to support alphabets, numbers, and special characters  
+* 🎨 Developed an interactive browser interface that visualized shifting operations for learning purposes  
+* 🔎 Showcased the relevance of classical cryptography by comparing with modern methods  
+* 💡 Educational tool bridging the gap between **classical ciphers** and **modern encryption**  
 
 ---
 
