@@ -26,29 +26,6 @@ Continuous learning path from foundational networking to advanced red-teaming, b
 
 ## 🚀 Flagship Project Showcase
 
-### 🔐 Secure-File-Transfer-System
-
-![codecov](https://img.shields.io/codecov/c/github/ganeshkrishnareddy/Secure-File-Transfer-System)
-![CI](https://github.com/ganeshkrishnareddy/Secure-File-Transfer-System/actions/workflows/ci.yml/badge.svg)
-
-**Built with:** Node.js, Bash, Docker, GitHub Actions  
-**Highlights:**
-
-* 🔒 Automated encrypted SCP transfers with a CLI tool  
-* ⚙️ 90%+ test coverage reported to Codecov  
-* 📦 Docker image < 50 MB, zero-downtime updates  
-
-<details>
-<summary>Architecture Diagram</summary>
-
-![Architecture](docs/architecture.png)
-
-</details>
-
-**Live Demo & Walkthrough:**  
-[![Loom Recording](https://img.shields.io/badge/Watch-Loom-Walkthrough-purple)](https://www.loom.com/share/your-looms-link)
-
----
 
 ### 🔑 Caesar Cipher – Classical Cryptography Tool *(Nov 2024 – Jan 2025)*
 
