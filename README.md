@@ -54,6 +54,7 @@ My approach integrates professional engineering standards with proactive cyberse
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Bolt-000000?style=flat-square&logo=bolt&logoColor=white" alt="Bolt">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
@@ -81,7 +82,7 @@ My approach integrates professional engineering standards with proactive cyberse
 **Category:** *Cryptography · Secure Systems*
 - **Problem:** Sensitive files transferred over insecure channels vulnerable to interception and unauthorized access.
 - **Solution:** Implemented a secure file transfer system using AES-256 encryption and integrity validation.
-- **Security Focus:** End-to-end encryption, SHAndler-based integrity checks, and secure authentication.
+- **Security Focus:** End-to-end encryption, SHA-256 integrity checks, and secure authentication.
 - **Impact:** Prevented unauthorized access and ensured data confidentiality during critical transfers.
 - **Stack:** Python, AES-256, Cryptography Libraries, Linux.
 
@@ -105,9 +106,10 @@ My approach integrates professional engineering standards with proactive cyberse
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshkrishnareddy&show_icons=true&theme=tokyonight" alt="Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkrishnareddy&layout=compact&theme=tokyonight" alt="Top Langs" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshkrishnareddy&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkrishnareddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150">
 </p>
+
 
 ---
 
