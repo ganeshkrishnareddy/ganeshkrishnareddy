@@ -37,7 +37,7 @@ My approach integrates professional engineering standards with proactive cyberse
 - **Python for Security**: Custom threat detection and security operation tooling.
 
 #### **Technical Skills (The Stack)**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
@@ -47,14 +47,14 @@ My approach integrates professional engineering standards with proactive cyberse
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node">
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Bolt-000000?style=flat-square&logo=bolt&logoColor=white" alt="Bolt">
+  <img src="https://img.shields.io/badge/Bolt-000000?style=flat-square&logo=lightning&logoColor=white" alt="Bolt">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
@@ -105,11 +105,19 @@ My approach integrates professional engineering standards with proactive cyberse
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshkrishnareddy&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkrishnareddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150">
-</p>
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ganeshkrishnareddy&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshkrishnareddy&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
