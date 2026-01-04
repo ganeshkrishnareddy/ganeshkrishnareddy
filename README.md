@@ -1,7 +1,7 @@
 # <p align="center">Secure Software Engineer (Cybersecurity & Full-Stack)</p>
 
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+  <img src="banner.png" alt="Banner" width="30%">
 </p>
 
 <p align="center">
@@ -62,34 +62,34 @@ My approach integrates professional engineering standards with proactive cyberse
 
 ### 🔐 Featured Secure Engineering Projects
 
-#### 🛡️ MailShield – Phishing & Malicious URL Analysis Platform
+#### 🛡️ [MailShield – Phishing & Malicious URL Analysis Platform](https://github.com/ganeshkrishnareddy/mailshield)
 **Category:** *Application Security · Threat Detection*
 - **Problem:** Phishing attacks via malicious URLs bypassing standard filters, exposing users to credential theft.
-- **Solution:** Designed and built a secure full-stack platform that analyzes URLs using heuristic checks, pattern analysis, and external threat intelligence APIs.
+- **Solution:** Designed and built a [secure full-stack platform](https://mailsheild.netlify.app/) that analyzes URLs using heuristic checks, pattern analysis, and external threat intelligence APIs.
 - **Security Focus:** URL threat scoring, input sanitization, secure API integration, and real-time alerting.
 - **Impact:** Reduced phishing exposure by automating analysis and enabling near real-time detection instead of manual review.
 - **Stack:** React, Node.js, Python, Security Intelligence APIs, OWASP best practices.
 
-#### 🧠 IDS Defense – Network Intrusion Detection System
+#### 🧠 [IDS Defense – Network Intrusion Detection System](https://github.com/ganeshkrishnareddy/ids-defense)
 **Category:** *Network Security · Blue Team*
 - **Problem:** Ineffective detection of anomalous traffic patterns in traditional rule-based monitoring, delaying incident response.
-- **Solution:** Developed a Python-based IDS to monitor live network traffic and flag suspicious behavior using traffic pattern analysis.
+- **Solution:** Developed a [Python-based IDS](https://github.com/ganeshkrishnareddy/ids-defense) to monitor live network traffic and flag suspicious behavior using traffic pattern analysis.
 - **Security Focus:** Network anomaly detection, packet inspection, and automated alert workflows.
 - **Impact:** Improved time-to-detect suspicious traffic and enabled faster incident mitigation.
 - **Stack:** Python, Linux, Network Security Tools, Packet Analysis.
 
-#### 🔑 Secure File Transfer System – Encrypted Data Transport
+#### 🔑 [Secure File Transfer System – Encrypted Data Transport](https://github.com/ganeshkrishnareddy/distributed-file-sharing)
 **Category:** *Cryptography · Secure Systems*
 - **Problem:** Sensitive files transferred over insecure channels vulnerable to interception and unauthorized access.
-- **Solution:** Implemented a secure file transfer system using AES-256 encryption and integrity validation.
+- **Solution:** Implemented a [secure file transfer system](https://github.com/ganeshkrishnareddy/distributed-file-sharing) using AES-256 encryption and integrity validation.
 - **Security Focus:** End-to-end encryption, SHA-256 integrity checks, and secure authentication.
 - **Impact:** Prevented unauthorized access and ensured data confidentiality during critical transfers.
 - **Stack:** Python, AES-256, Cryptography Libraries, Linux.
 
-#### 🚚 MealRoute – Secure Full-Stack Logistics Platform
+#### 🚚 [MealRoute – Secure Full-Stack Logistics Platform](https://github.com/ganeshkrishnareddy/mealroute)
 **Category:** *Secure Engineering · Logistics*
 - **Problem:** Logistics platforms often lack proper RBAC and secure real-time synchronization, risking operational data.
-- **Solution:** Built a production-ready logistics platform with secure authentication and granular Role-Based Access Control.
+- **Solution:** Built a [production-ready logistics platform](https://github.com/ganeshkrishnareddy/mealroute) with secure authentication and granular Role-Based Access Control.
 - **Security Focus:** Secure Auth flows, RBAC enforcement at API level, and secure real-time synchronization.
 - **Impact:** Prevented unauthorized access to sensitive operational data and ensured secure user isolation.
 - **Stack:** React, Firebase, Node.js, Secure API Design.
@@ -104,24 +104,10 @@ My approach integrates professional engineering standards with proactive cyberse
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ganeshkrishnareddy&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats">
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshkrishnareddy&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages">
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 <p align="center">
   <i>"I focus on reducing real-world security risk, not just finding vulnerabilities."</i><br>
   I aim to grow as a secure software engineer who understands both system design and system defense.
 </p>
+
