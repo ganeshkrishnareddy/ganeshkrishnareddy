@@ -127,18 +127,6 @@ Multi-agent AI system with **13 specialized agents**, **18+ pentest tools**, **2
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshkrishnareddy&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkrishnareddy&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## Current Focus
 
 ```
