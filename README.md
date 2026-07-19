@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://github.com/ganeshkrishnareddy/ganeshkrishnareddy/blob/main/banner.png?raw=true" width="100%" alt="Banner"/>
+<img src="https://github.com/ganeshkrishnareddy/ganeshkrishnareddy/blob/main/banner.png?raw=true" width="30%" alt="Banner"/>
 
 # Building Autonomous AI Security Platforms
 
