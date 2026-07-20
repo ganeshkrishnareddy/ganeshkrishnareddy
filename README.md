@@ -10,7 +10,10 @@ Building Autonomous AI Security Platforms
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pganeshkrishnareddy-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pganeshkrishnareddy)
 [![Email](https://img.shields.io/badge/Contact-pganeshkrishnareddy@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:pganeshkrishnareddy@gmail.com)
 [![X](https://img.shields.io/badge/X-_this__is__ganesh-000?style=for-the-badge&logo=x)](https://x.com/_this_is_ganesh)
-[![Razorpay](https://img.shields.io/badge/Support-Razorpay-07263E?style=for-the-badge&logo=razorpay)](https://razorpay.me/@ProgVision)
+
+<a href="https://github.com/sponsors/ganeshkrishnareddy">
+  <img src="https://img.shields.io/badge/Sponsor-ganeshkrishnareddy-EA4335?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor">
+</a>
 
 ---
 
